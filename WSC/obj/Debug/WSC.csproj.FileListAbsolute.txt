@@ -1,0 +1,9 @@
+D:\onu\c# net\WSC\WSC\bin\Debug\WSC.exe.config
+D:\onu\c# net\WSC\WSC\bin\Debug\WSC.exe
+D:\onu\c# net\WSC\WSC\bin\Debug\WSC.pdb
+D:\onu\c# net\WSC\WSC\obj\Debug\WSC.csprojResolveAssemblyReference.cache
+D:\onu\c# net\WSC\WSC\obj\Debug\WSC.Form1.resources
+D:\onu\c# net\WSC\WSC\obj\Debug\WSC.Properties.Resources.resources
+D:\onu\c# net\WSC\WSC\obj\Debug\WSC.csproj.GenerateResource.Cache
+D:\onu\c# net\WSC\WSC\obj\Debug\WSC.exe
+D:\onu\c# net\WSC\WSC\obj\Debug\WSC.pdb
